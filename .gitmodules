@@ -1,0 +1,3 @@
+[submodule "catkin_ws/src/obj_detection/src/avod"]
+	path = catkin_ws/src/obj_detection/src/avod
+	url = git@github.com:Fredrik00/avod.git
